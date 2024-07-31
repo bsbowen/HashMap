@@ -8,6 +8,7 @@ import java.util.HashMap;
 	    check, and find explanations for abbreviations.
 	•	Implement methods: addAbbreviation, hasAbbreviation,
 	    and findExplanationFor.
+
  */
 public class Abbreviations {
     // Step 1: Declare a HashMap to store abbreviations and

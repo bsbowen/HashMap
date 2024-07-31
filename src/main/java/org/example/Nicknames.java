@@ -10,6 +10,8 @@ import java.util.HashMap;
 	•	Add entries to the hashmap where the key
 	    is the person’s name and the value is their nickname.
 	•	Retrieve and print a specific nickname from the hashmap.
+
+
  */
 
 public class Nicknames {
